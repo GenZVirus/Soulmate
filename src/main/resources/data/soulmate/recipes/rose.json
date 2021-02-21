@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:poppy"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "soulmate:rose",
+        "count": 1
+    }
+}
